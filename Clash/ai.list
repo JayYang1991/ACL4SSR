@@ -46,5 +46,6 @@ DOMAIN-SUFFIX,bard-pa.googleapis.com
 DOMAIN-SUFFIX,aida.googleapis.com
 DOMAIN-SUFFIX,cloudaicompanion.googleapis.com
 DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
+DOMAIN-SUFFIX,daily-cloudcode-pa.googleapis.com
 DOMAIN-SUFFIX,firebasevertexai.googleapis.com
 DOMAIN-SUFFIX,gemini.gstatic.com
