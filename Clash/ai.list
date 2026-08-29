@@ -49,3 +49,6 @@ DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
 DOMAIN-SUFFIX,daily-cloudcode-pa.googleapis.com
 DOMAIN-SUFFIX,firebasevertexai.googleapis.com
 DOMAIN-SUFFIX,gemini.gstatic.com
+DOMAIN-SUFFIX,oauth2.googleapis.com
+DOMAIN-SUFFIX,play.googleapis.com
+DOMAIN-SUFFIX,googleapis.com
